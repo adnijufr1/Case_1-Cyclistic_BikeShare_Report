@@ -7,7 +7,7 @@ As a Junior Data Analyst at BikeShare Company, I will perform analytic tasks in 
 1. [Data Combining](https://github.com/adnijufr1/Case_1-Cyclistic_BikeShare_Report/blob/main/Combining%20Process.sql).
 2. [Data Exploration](https://github.com/adnijufr1/Case_1-Cyclistic_BikeShare_Report/blob/main/Exploration%20Process.sql).
 3. [Data Cleaning](https://github.com/adnijufr1/Case_1-Cyclistic_BikeShare_Report/blob/main/Cleaning%20Process.sql).
-4. [Data GeoPoint Combining].
+4. [Data GeoPoint Combining](https://github.com/adnijufr1/Case_1-Cyclistic_BikeShare_Report/blob/main/GeoPointCreation.sql).
 5. [Data Analysis](https://github.com/adnijufr1/Case_1-Cyclistic_BikeShare_Report/blob/main/Analyze%20Process.sql).
 6. Summary.
 
