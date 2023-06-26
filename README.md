@@ -4,11 +4,11 @@
 As a Junior Data Analyst at BikeShare Company, I will perform analytic tasks in order to get comprehensive understanding of the consumers trends in 2022. Therefore, as a Junior Data Analyst can answer business questions. I will follow the steps of the data analysis process: Ask, Prepare, Process, Analyze, Share, and Act.
 
 ## Quick Links
-1. Data Combining.
-2. Data Exploration.
-3. Data Cleaning.
-4. Data GeoPoint Combining
-5. Data Analysis.
+1. [Data Combining](https://github.com/adnijufr1/Case_1-Cyclistic_BikeShare_Report/blob/main/Combining%20Process.sql).
+2. [Data Exploration](https://github.com/adnijufr1/Case_1-Cyclistic_BikeShare_Report/blob/main/Exploration%20Process.sql).
+3. [Data Cleaning](https://github.com/adnijufr1/Case_1-Cyclistic_BikeShare_Report/blob/main/Cleaning%20Process.sql).
+4. [Data GeoPoint Combining].
+5. [Data Analysis](https://github.com/adnijufr1/Case_1-Cyclistic_BikeShare_Report/blob/main/Analyze%20Process.sql).
 6. Summary.
 
 ## About the company
