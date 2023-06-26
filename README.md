@@ -1,1 +1,3 @@
-# Case_1-Cyclistic_BikeShare_Report
+# Google Data Analytics Case 1 : Cyclistic BikeShare 
+
+## Introduction
