@@ -9,6 +9,7 @@ As a Junior Data Analyst at BikeShare Company, I will perform analytic tasks in 
 3. Data Cleaning.
 4. Data GeoPoint Combining
 5. Data Analysis.
+6. Summary.
 
 ## About the company
 
@@ -110,6 +111,7 @@ In this process, I want to dig deeper of how the "combined data" look like.
    ![image](https://github.com/adnijufr1/Case_1-Cyclistic_BikeShare_Report/assets/108950455/fc3ea646-0ad0-4c9a-afd7-8387830ea81e)
 
 6. member_casual column has only two unique values.
+   
    ![image](https://github.com/adnijufr1/Case_1-Cyclistic_BikeShare_Report/assets/108950455/05e8c04a-8697-4768-94fb-318a973ba1d4)
 
 ### Cleaning Process
@@ -120,15 +122,18 @@ Query --> Cleaning Process
 4. ride_length are added.
 
 ### Geopoint Creation on Bigquery
-* Query         --> Analyze Process
+* Query         --> Geopoint Creation Process
 
+![image](https://github.com/adnijufr1/Case_1-Cyclistic_BikeShare_Report/assets/108950455/facd8ae5-6d59-42fd-8c4c-f45a7ba9dc82)
+
+
+Lattitude and Longitude were provided in order to understand how riders flow in the map. From this visualization we can know a glimpse of riders' distribution in certain area, how each membership can create a certain trends in different areas.  
 
 ## Analyze & Share
-
 * Query         --> Analyze Process
 * Visualization --> Looker Studio
 
-The crucial question at the beginning is _**How do annual members and casual riders use Cyclistic bikes differently?**_ 
+The crucial question at the beginning is _**How do annual members and casual riders use Cyclistic bikes differently?**_ to answer the question I will present first below my visualization.
 
 ![image](https://github.com/adnijufr1/Case_1-Cyclistic_BikeShare_Report/assets/108950455/702a1401-2c7e-45ca-8a43-d3df5f834ac8)
    
